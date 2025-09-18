@@ -1,7 +1,9 @@
 # Hi there, I'm Saamia 👋  
 
 🎓 O-level student & beginner web developer  
-💻 Currently learning **HTML, CSS & JavaScript**  
+💻 Currently learning ** CSS **  
+✅ ** HTML ** completed!
+🕒 About to begin ** JavaScript ** soon!
 🌱 Exploring projects from [CodeWithHarry's Sigma Web Dev Course](https://www.codewithharry.com/)  
 🎯 Goal: Build creative, fun, and responsive websites   
 
